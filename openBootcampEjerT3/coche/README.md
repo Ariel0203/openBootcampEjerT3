@@ -1,18 +1,9 @@
-## Getting Started
+Crear una clase coche.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
 
-## Folder Structure
+Una función que incremente el número de puertas que tiene el coche.
 
-The workspace contains two folders by default, where:
+Crear un objeto miCoche en el main y añadirle una puerta.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Mostrar el número de puertas que tiene el objeto.
